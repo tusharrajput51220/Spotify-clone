@@ -1,6 +1,7 @@
 export const authEndpoint="https://accounts.spotify.com/authorize";
 const redurectUri="http://localhost:3000/";
-const clientId="3bf8f4b8f8374405b59a346095ce8d0a";
+// const clientId="3bf8f4b8f8374405b59a346095ce8d0a";
+const clientId="31e2lrlkxc6mfsbo3jwro3vrhoay"
 const scopes=[
     "user-read-currently-playing",
     "user-read-recently-played",
